@@ -23,15 +23,6 @@ if (push && releaseConf[push]) {
 
 ```
 
-### release.conf.js
-
-```
-module.exports = {
-  liyanan: 'http://gzns-waimai-bcloud03.gzns.iwm.name:8175/receiver.php'
-}
-
-```
-
 ### 使用方法
 
 ```
